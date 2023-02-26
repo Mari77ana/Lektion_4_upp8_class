@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lektion_4_upp8_class</string>
+
+
+    <string name="age">age</string>
+
+    <string name="remember_switch">Switch</string>
+
+    <string name="hint">hint</string>
+    <string name="REGISTER">REGISTER</string>
+    <string name="Name">"name"</string>
+    <string name="username">name</string>
+    <string name="userage">age</string>
+    <string name="is_late">is late?</string>
+    <string name="userID">TextView</string>
+</resources>
